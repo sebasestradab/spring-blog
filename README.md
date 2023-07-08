@@ -1,4 +1,4 @@
-# Spring Blog
+# Spring Blog - https://www.youtube.com/watch?v=53T_R3xAPTg&ab_channel=DanVega
 
 This is a sample blog application that I created to use as an example of how to take a Spring Boot application to production. 
 It's not enough to understand how to create applications, you need to understand how to take them to production. This document 
